@@ -6,3 +6,5 @@ Integrantes:
 •	Carlos Antonio Mejia Caicedo
 
 •	Gibran Leoncio Tarrillo Soto
+
+•	Carlos Adrian Aquije Vásquez
