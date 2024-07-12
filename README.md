@@ -1,4 +1,4 @@
-# Proyecto-IOT-Equipo17
+# Proyecto Caja fuerte inteligente -Equipo 17
 Integrantes:
 
 •	Edwin Martin Anton Guerrero
